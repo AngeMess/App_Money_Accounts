@@ -5,5 +5,5 @@ Integrantes:
 - Ethan David Henriquez Diaz
 
 Guia:
--Cambiar ip en src/config/api "BASE_URL: 'http://TU IP:3000/api'"
--npm i --force
+- Cambiar ip en src/config/api "BASE_URL: 'http://TU IP:3000/api'"
+- npm i --force
